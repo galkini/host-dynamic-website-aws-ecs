@@ -1,3 +1,9 @@
+
+![Alt text](/Host_a_Dynamic_Website_on_AWS_with_ECS.png)
+
+![Alt text](/VPC_drawing.png)
+
+
 # Hosting a Dynamic Website on AWS Using Docker, ECS, and ECR
 
 This project demonstrates how to host a dynamic website on AWS using Docker containers, ECS (Elastic Container Service), and ECR (Elastic Container Registry). The reference diagram and configuration files are available in a private GitHub repository.
